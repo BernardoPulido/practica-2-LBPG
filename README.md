@@ -4,7 +4,7 @@ Práctica 2 de la asignatura Sistemas Distribuidos en Internet (Introducción a 
 Clona el repositorio ejecutando la siguiente linea:
 
 ```bash
-git clone https://github.com/BernardoPulido/practica-1-LBPG.git
+git clone https://github.com/BernardoPulido/practica-2-LBPG.git
 ```
 Ahora, instala las depedendencia necesarias para la correcta ejecución de la práctica:
 
